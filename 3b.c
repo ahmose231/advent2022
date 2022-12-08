@@ -11,7 +11,6 @@ int main()
 	int higher[26][3];
 	int len;
 	int total=0;
-	int count=0;
 	
 	while(fgets(line,LEN,stdin)!=NULL)
 	{
